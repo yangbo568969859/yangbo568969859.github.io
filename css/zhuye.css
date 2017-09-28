@@ -621,6 +621,10 @@ ul.mainshow li a {
   color: #2c3e50;
 }
 
+.exp-list{
+  margin-bottom:80px;
+}
+
 .exp1 {
   position: relative;
   margin-top: 30px;

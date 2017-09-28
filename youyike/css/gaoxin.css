@@ -1,0 +1,315 @@
+header{
+	width: 100%;
+	height: 0.445rem;
+	background: #007BE3;
+	top: 0;
+	left: 0;
+	right: 0;
+	margin: auto;
+	position: fixed;
+	padding: 0 0.15rem;
+    z-index: 22;
+
+}
+.head{
+	width:1.91rem;
+	height: 0.335rem;
+	margin-left: 0.16rem;
+	background-image: url('../img/logo3.png');
+	background-size: cover;
+	float: left;
+}
+.youyike span{
+	font-size: 0.18rem;
+	line-height: 100%;
+	color: white;
+	float: left;
+	margin-top: 12px;
+	margin-left: 8px;
+}
+.menu{
+	width: 0.2rem;
+	height: 0.2rem;
+	background-image: url('../img/meau.png');
+	background-size: cover;
+	float: left;
+	margin-top: 0.10rem;
+	margin-left: 1.14rem;
+}
+.neirong1{
+	width: 100%;
+	height: auto;
+	padding: 0.05rem 0.12rem 0;
+}
+.swiper-wrapper .one{
+	width:100%;
+	height: 2.15rem;
+	box-sizing: border-box;
+	padding-top: 0.25rem;
+}
+.swiper-container .swiper-scrollbar-drag{
+	background: #ff8d12;
+}
+.banner{
+	width: 100%;
+	height: 2.15rem;
+	padding-top: 0.25rem;
+	overflow: hidden;
+}
+.bannerpic{
+	width: 100%;
+	height: 1.9rem;
+	background-image: url('../img/1.jpg');
+	background-size: cover;
+	overflow: hidden;
+}
+
+.mulu{
+	width: 3.51rem;
+	height: 0.31rem;
+	line-height: 0.31rem;
+}
+.mulu a{
+	color: #494747;
+	font-size: 0.11rem;
+	line-height: 0.31rem;
+	margin: 0 0.07rem;
+	font-weight: bold;
+	float: left;
+}
+.mulu span{
+	font-size: 0.11rem;
+	line-height: 0.31rem;
+	float: left;
+	font-weight: bold;
+}
+
+.tiaomumain{
+	width:3.51rem;
+	height: auto;
+	background: white;
+	margin:0 auto;
+}
+.tiaomumain ul{
+	width: 100%;
+	height: 100%;
+
+}
+.tiaomumain li{
+	width: 100%;
+	height: auto;
+	padding: 0.1rem;
+	border-bottom: 1px solid #b8b8b8;
+    overflow: hidden;
+}
+.img{
+	width:0.96rem;
+	height:0.64rem;
+	float: left;
+	margin-top: 0.07rem;
+	overflow: hidden;
+	background: url('../img/20170112072558735.png') center center no-repeat;
+	background-size: 100%;
+}
+.jieshao{
+	/* width: 1.80rem;
+	height: 0.96rem;
+	float: right;
+	margin-top: 0.17rem;
+	overflow: hidden;
+	margin-right: 0.1rem; */
+	padding-left: 0.14rem;
+    padding-bottom: 0.09rem;
+    float: left;
+    width:2.15rem;
+
+}
+.jieshao1{
+	width: 100%;
+	float: left;
+	text-align:left;
+	margin-top: 0.1rem;
+}
+.name{
+	font-size: 0.13rem;
+    color: #111;
+    height: 0.15rem;
+    line-height: 0.15rem;
+    width: 100%;
+    overflow: hidden;
+}
+.xian{
+	border-bottom: 1px dashed #b8b8b8;
+    width:1.8rem;
+    height: 0;
+    margin: 0.1rem 0;
+}
+.posit{
+	width: 100%;
+	height: 0.15rem;
+	color: #94d43b;
+	font-size: 0.12rem;
+	text-align: left;
+	overflow: hidden;
+}
+.posit span{
+	font-weight: bold;
+	font-size: 0.13rem;
+}
+/* .jieshao p{
+	font-size: 0.12rem;
+	text-align: left;
+	height: 0.15rem;
+	line-height: 0.15rem;
+	color: #666;
+	margin-top: 0.1rem;
+	float: left;
+} */
+#wenzi1{
+	font-size: 0.12rem;
+	color: #ff9300;
+	float: left;
+	margin-top: 0.05rem;
+}
+.img1{
+	background: url('../img/20170112063652908.png') center center no-repeat;
+	background-size: 100%;
+}
+.img2{
+	background: url('../img/20170112065942818.png') center center no-repeat;
+	background-size: 100%;
+}
+.img3{
+	background: url('../img/20170112072340349.png') center center no-repeat;
+	background-size: 100%;
+}
+.img4{
+	background: url('../img/20170112064505763.png') center center no-repeat;
+	background-size: 100%;
+}
+
+.yema{
+	width: 100%;
+	height: auto;
+}
+.yematiao{
+	width: 100%;
+	height: 0.4rem;
+	padding-top: 0.1rem;
+}
+.tiaomu1{
+	width: 0.25rem;
+	float: left;
+    padding: 0.05rem;
+    height: 0.25rem;
+    border-radius: 50%;
+    margin-right: 0.07rem;
+    background: url('../img/s1.png') center center no-repeat;
+    background-size: 100%;
+    margin-left: 0.2rem;
+}
+.tiaomu2{
+	width: 0.74rem;
+	height: 0.25rem;
+	background: url('../img/s2.png') center center no-repeat;
+    background-size: 100%;
+    margin-right: 0.07rem;
+    float: left;
+}
+.yematiao1{
+	width: 0.7rem;
+	height: 0.25rem;
+	float: left;
+	font-size: 0.12rem;
+	text-align: center;
+	margin-left: 0.12rem;
+	border: 1px solid #333;
+	border-radius: 0.18rem;
+	line-height: 0.25rem;
+}
+.tiaomu3{
+	background: url('../img/s4.png') center center no-repeat;
+    background-size: 100%;
+}
+.tiaomu4{
+	background: url('../img/s3.png') center center no-repeat;
+    background-size: 100%;
+}
+
+.copyright{
+	width: 100%;
+	height: 0.6rem;
+	background: #F5F6FA;
+	float: left;
+	font-size: 0.1rem;
+	padding-top: 0.09rem;
+	text-align: center;
+	color: #666;
+}
+
+footer{
+	width: 100%;
+	height: 0.45rem;
+	background: #E7E7E7;
+	position: fixed;
+	bottom: 0;
+	margin: auto;
+}
+.footer{
+	width: 100%;
+	height: 0.45rem;
+	background: #E7E7E7;
+}
+.foot1{
+	width: 1.125rem;
+	height: 0.40rem;
+	float: left;
+	margin-top: 0.05rem;
+}
+.foot2{
+	width: 1.5rem;
+	height: 0.45rem;
+	float: left;
+	background: orange;
+	border-radius: 0.04rem;
+    box-shadow: 0px 0px 0.08rem #ff8d12;
+}
+.qq{
+	width: 0.16rem;
+	height: 0.16rem;
+	background: url('../img/qq.png');
+	background-size:cover;
+	float: left;
+    margin-top: 0.12rem;
+    margin-left: 0.12rem;
+}
+.foot1 span {
+	font-size: 0.13rem;
+	margin-left: 0.05rem;
+	color: #000;
+	margin-top: 0.12rem;
+	float: left;
+}
+.boda{
+	width: 0.18rem;
+	height: 0.18rem;
+	float: left;
+	margin-left: 0.35rem;
+	margin-top: 0.12rem;
+	background: url('../img/2.png') -0.8rem -2.39rem no-repeat;
+	background-size: 1rem;
+}
+.foot2 span {
+	font-size: 0.14rem;
+	margin-left: 0.09rem;
+	color: #000;
+	margin-top: 0.12rem;
+	float: left;
+	color: white;
+}
+
+
+.neirong{
+	background: #F5F6FA;
+	margin-bottom: 0.9rem;
+}
