@@ -49,6 +49,14 @@ $(document).ready(function () {
         })
     })
 
+    $('.mainshow li').each(function (index,value) {
+        $(this).click(function () {
+            $(document.body).animate({
+                scrollTop:floors[index].offsetTop,
+            })
+        })
+    })
+
 
     // var search=$('.search');
     // var floors=$('.tiaozhuan');
